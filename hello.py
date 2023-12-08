@@ -1,4 +1,7 @@
-print('Hello from Python')
+py_message = 'Hello from Python'
+print(py_message)
 
-if True:
-  print("I'm in IF")
+get_into = True
+internal_message = "I'm in IF"
+if get_into:
+  print(internal_message)
